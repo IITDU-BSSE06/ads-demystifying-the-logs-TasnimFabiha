@@ -8,8 +8,11 @@ https://stackoverflow.com/questions/20521873/faster-way-to-count-number-of-strin
 https://stackoverflow.com/questions/20510768/python-count-frequency-of-words-in-a-list
 
 
+
+
 For assignment 3 and 4, I firts took help from this link,
 https://stackoverflow.com/questions/1518522/python-most-common-element-in-a-list
 this code snippet gave the exact output desired for these assignment. But I failed to understand the inner mechanism of the function. 
+
 Then I discussed with my classmates, and got the idea of taking help from the code that was done in our class room.
 Then I was able to match my logic with that reducer code. I completed these 2 assignments by modifyng that reducer code which was provided in our classroom.
