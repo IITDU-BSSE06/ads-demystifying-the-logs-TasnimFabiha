@@ -1,10 +1,9 @@
 #!/usr/bin/python
-
 # Format of each line is:
-# date\ttime\tstore name\titem description\tcost\tmethod of payment
-#
-# We want elements 2 (store name) and 4 (cost)
-# We need to write them out to standard output, separated by a tab
+#10.247.111.104 - - [07/Sep/2010:05:14:50 -0700] "GET / HTTP/1.1" 200 4172
+# We want 7th elements  separated by space
+# We need to write them out to standard output
+
 
 import sys
 
