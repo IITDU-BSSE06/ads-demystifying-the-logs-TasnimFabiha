@@ -14,6 +14,9 @@ uniquefile = 1
 
 for line in sys.stdin:
 	data_mapped = line.strip()
+	if len(data_mapped) != 1:
+        	# Something has gone wrong. Skip this line.
+        	continue
 	thisKey = data_mapped
     
 	if oldKey and oldKey != thisKey:
