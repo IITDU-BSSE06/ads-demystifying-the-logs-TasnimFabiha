@@ -24,9 +24,9 @@ for line in sys.stdin:
 		if maxPathCounter < thisCounter:
 			maxPathCounter = thisCounter
 		
-    thisCounter = 0
+    		thisCounter = 0
 	
-  oldKey = thisKey
+  	oldKey = thisKey
 	thisCounter = thisCounter+1
     
 
