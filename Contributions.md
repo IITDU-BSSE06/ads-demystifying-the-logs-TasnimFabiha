@@ -20,4 +20,4 @@ Then I was able to match my logic with that reducer code. I completed these 2 as
 
 Assignment 5 were also done by modifying the previous reducer code
 
-for checking each line's validity sent from mapper, I took help from following link: https://stackoverflow.com/questions/9573244/most-elegant-way-to-check-if-the-string-is-empty-in-python
+for checking each line's validity sent from mapper, I took help from following link: https://stackoverflow.com/questions/9573244/most-elegant-way-to-check-if-the-string-is-empty-in-python as I wanted to check if the sent string wasn't empty
