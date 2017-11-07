@@ -16,3 +16,6 @@ this code snippet gave the exact output desired for these assignment. But I fail
 
 Then I discussed with my classmates, and got the idea of taking help from the code that was done in our class room.
 Then I was able to match my logic with that reducer code. I completed these 2 assignments by modifyng that reducer code which was provided in our classroom.
+
+
+Assignment 5 were also done by modifying the previous reducer code
