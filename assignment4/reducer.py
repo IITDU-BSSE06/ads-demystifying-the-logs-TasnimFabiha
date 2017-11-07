@@ -2,7 +2,7 @@
 
 import sys
 
-salesTotal = 0
+
 oldKey = None
 thisCounter = 0
 maxPathCounter = -9999999
@@ -14,15 +14,15 @@ maxPathCounter = -9999999
 
 for line in sys.stdin:
 	data_mapped = line.strip()
-	if len(data_mapped) != 1:
-        # Something has gone wrong. Skip this line.
-	continue
+	if not data_mapped :
+        	# Something has gone wrong. Skip this line.
+        	continue
 	
 	thisKey = data_mapped
     
 	if oldKey and oldKey != thisKey:
 		if maxPathCounter < thisCounter:
-			maxKey = oldKey
+			maxPathCounter = thisCounter
 		
     thisCounter = 0
 	
